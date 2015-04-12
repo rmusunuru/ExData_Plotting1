@@ -1,5 +1,5 @@
 ## 
-## produces histogram of Global Active Power consumption for households
+## produces plot2
 ##
 ##  
 library(sqldf)
